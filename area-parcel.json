@@ -1,7 +1,7 @@
 {
   "type": "CityJSONExtension",
   "name": "area-parcel",
-  "description": "Extension to model dynamic attributes",
+  "description": "add area parcel",
   "uri": "https://github.com/1khawla/1khawla/blob/main/area-parcel.ext.json",
   "version":"1.0",
   "versionCityJSON":"1.1",
