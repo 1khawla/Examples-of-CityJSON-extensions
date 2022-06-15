@@ -2,7 +2,7 @@
   "type": "CityJSONExtension",
   "name": "census",
   "description": "Extension to model dynamic attributes",
-  "uri": "https://github.com/1khawla/CityJSON-Dynamizer/blob/main/Dynamizer.json",
+  "uri": "https://github.com/1khawla/1khawla/blob/main/census.ext.json",
   "version":"1.0",
   "versionCityJSON":"1.1",  
   "extraRootProperties": {
