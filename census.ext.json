@@ -1,0 +1,27 @@
+{
+  "type": "CityJSONExtension",
+  "name": "census",
+  "description": "Extension to model dynamic attributes",
+  "uri": "https://github.com/1khawla/CityJSON-Dynamizer/blob/main/Dynamizer.json",
+  "version":"1.0",
+  "versionCityJSON":"1.1",  
+  "extraRootProperties": {
+    "+census": {
+      "type": "object",
+      "properties": {
+        "percent_men": { 
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 100.0
+        },
+        "percent_women": { 
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 100.0
+        }
+      }
+    }
+  }
+  "extraAttributes": {},
+  "extraCityObjects": {}
+}
