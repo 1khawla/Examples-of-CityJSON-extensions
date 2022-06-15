@@ -1,7 +1,7 @@
 {
   "type": "CityJSONExtension",
   "name": "census",
-  "description": "Extension to model dynamic attributes",
+  "description": "Extension to store some census data for a given neighbourhood",
   "uri": "https://github.com/1khawla/1khawla/blob/main/census.ext.json",
   "version":"1.0",
   "versionCityJSON":"1.1",  
