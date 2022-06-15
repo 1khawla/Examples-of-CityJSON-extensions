@@ -3,7 +3,7 @@
   "name": "census",
   "description": "Extension to store some census data for a given neighbourhood",
   "uri": "https://github.com/1khawla/1khawla/blob/main/census.ext.json",
-  "version":"1.0",
+  "version":"0.7",
   "versionCityJSON":"1.1",  
   "extraRootProperties": {
     "+census": {
