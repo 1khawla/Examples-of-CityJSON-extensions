@@ -1,6 +1,6 @@
 {
   "type": "CityJSONExtension",
-  "name": "census",
+  "name": "Census",
   "description": "Extension to store some census data for a given neighbourhood",
   "uri": "https://github.com/1khawla/1khawla/blob/main/census.ext.json",
   "version":"0.7",
